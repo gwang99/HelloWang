@@ -1,3 +1,3 @@
 # HelloWang
-new repository
+new repository\n
 A Change!
